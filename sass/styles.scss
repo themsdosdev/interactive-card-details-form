@@ -17,7 +17,6 @@ body {
 .main-container {
   width: 375px;
   margin: auto;
-  margin-top: 10px;
 
   &__background-section {
     background-image: url("../images/bg-main-mobile.png");
@@ -25,8 +24,6 @@ body {
     height: 240px;
     position: relative;
   }
-
-  &
 
   &__form-section {
     padding: 90px 24px 45px;
@@ -40,7 +37,6 @@ body {
       background-image: url("../images/bg-main-desktop.png");
       width: 900px;
       height: 900px;
-    
     }
   }
 }
@@ -103,12 +99,7 @@ body {
   }
 }
 
-.main-container__form-section{
-  margin-bottom: 30px;
-}
-
 .form {
-  margin-left: -80px;
   // display: none;
 
   &__label {

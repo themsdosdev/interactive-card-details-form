@@ -132,9 +132,6 @@ body {
   }
 }
 
-.form {
-  margin-left: -80px;
-}
 .form__label {
   text-transform: uppercase;
   font-size: 0.65em;
@@ -167,7 +164,8 @@ body {
   display: flex;
   gap: 10px;
 }
-.form__submit, .thanks-section__button {
+.form__submit,
+.thanks-section__button {
   background-color: hsl(278, 68%, 11%);
   color: hsl(270, 3%, 87%);
   width: 100%;
@@ -177,7 +175,8 @@ body {
   letter-spacing: 1px;
   font-family: 18px;
 }
-.form__submit:hover, .thanks-section__button:hover {
+.form__submit:hover,
+.thanks-section__button:hover {
   cursor: pointer;
 }
 @media (min-width: 1440px) {
