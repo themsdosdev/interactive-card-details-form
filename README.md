@@ -19,7 +19,8 @@
 
 # MOBILE
 
-![screencapture-127-0-0-1-5500-index-html-2025-01-07-16_58_33](https://github.com/user-attachments/assets/c95f7145-19d7-422f-88b0-1ea835c81cdb)
+
+![screencapture-127-0-0-1-5500-index-html-2025-01-04-18_27_23](https://github.com/user-attachments/assets/86d4c34b-f8a0-41ff-a449-25f2336504c0)
 
 
 
